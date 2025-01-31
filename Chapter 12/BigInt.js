@@ -1,0 +1,8 @@
+console.log(2**53-1)
+console.log(Number.MAX_SAFE_INTEGER)
+
+console.log(90293781089273981249812461232131233n)
+
+console.log(20007n + 90293781089273981249812461232131233n)
+
+console.log(20n>15)
